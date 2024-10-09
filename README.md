@@ -23,5 +23,18 @@ You can click the Preview link to take a look at your changes.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ayush-Dube&icon=10&color=4)](https://visitcount.itsvg.in)
+---
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=Ayush-dube&locale=en&mode=daily&theme=neon&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  </div>
+  <br>
+  
+  <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayush-dube&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=neon&hide_border=false&order=2" height="150" alt="languages graph"  />
+    </div>
+    <br>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-dube&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
