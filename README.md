@@ -12,7 +12,9 @@
 Ayush-Dube/Ayush-Dube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+  <div align="center">
+      <img src="https://github.com/Ayush-Dube/Ayush-Dube/blob/main/pexels-tima-miroshnichenko-5380594.jpg?raw=true" />
+  </div>
 
 
 # 💻 Tech Stack:
